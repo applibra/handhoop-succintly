@@ -1,3 +1,3 @@
 FROM debian
 RUN apt update && \
-    apt install vim
+    apt install -y vim
